@@ -134,7 +134,7 @@ Using the same design specifications:
 
 ![image](https://github.com/user-attachments/assets/57c7b767-d19f-4bb3-9cd9-43514a6cab93)
 
-- **Gain (Av)** = -65 mV / 2 mV = - V/V
+- **Gain (Av)** = -65 mV / 2 mV = -32.5 V/V
 
 #### AC Analysis Results:
 
